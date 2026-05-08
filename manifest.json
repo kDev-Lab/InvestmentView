@@ -1,11 +1,11 @@
 {
-    "name": "Investment View",
-    "short_name": "Investment View",
+    "name": "investment_view_app",
+    "short_name": "investment_view_app",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "Investment View projection dashboard.",
+    "description": "A new Flutter project.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
